@@ -19,7 +19,7 @@ A simple Rust program to convert Markdown documents to HTML format, featuring ba
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/markdown-to-html.git
+    git clone https://github.com/samarpreetxd/markdown-to-html.git
     cd markdown-to-html
     ```
 
